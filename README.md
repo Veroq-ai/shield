@@ -12,7 +12,7 @@
   <a href="https://pypi.org/project/veroq"><img src="https://img.shields.io/pypi/v/veroq?label=PyPI&color=blue" alt="PyPI" /></a>
   <a href="https://www.npmjs.com/package/@veroq/sdk"><img src="https://img.shields.io/npm/v/@veroq/sdk?label=npm&color=blue" alt="npm" /></a>
   <a href="https://veroq.ai"><img src="https://img.shields.io/badge/docs-veroq.ai-brightgreen" alt="Docs" /></a>
-  <a href="https://github.com/Veroq-api/shield/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License" /></a>
+  <a href="https://github.com/veroq-ai/shield/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License" /></a>
 </p>
 
 ---
@@ -195,21 +195,21 @@ Cached results are free. [Full pricing at veroq.ai/pricing](https://veroq.ai/pri
 
 ## Part of VeroQ
 
-Shield is the fastest way to start with [VeroQ](https://github.com/Veroq-api) -- the verified intelligence platform for AI agents. When you're ready for more:
+Shield is the fastest way to start with [VeroQ](https://github.com/veroq-ai) -- the verified intelligence platform for AI agents. When you're ready for more:
 
 - **[Verified Swarm](https://veroq.ai/docs)** -- 5-agent pipeline that auto-verifies every step
 - **[Agent Memory](https://veroq.ai/docs)** -- persistent per-agent knowledge that gets smarter over time
 - **[Agent Runtime](https://veroq.ai/docs)** -- vertical kits for finance, legal, research, compliance
-- **[62 MCP Tools](https://github.com/Veroq-api/veroq-mcp)** -- full Model Context Protocol integration
+- **[62 MCP Tools](https://github.com/veroq-ai/veroq-mcp)** -- full Model Context Protocol integration
 - **[Verification Receipts](https://veroq.ai/docs)** -- permanent, shareable proof of every verification
 
 ## Links
 
 - [Documentation](https://veroq.ai/docs)
 - [API Reference](https://veroq.ai/docs/api)
-- [Python SDK](https://github.com/Veroq-api/veroq-python)
-- [TypeScript SDK](https://github.com/Veroq-api/veroq-sdk)
-- [MCP Server](https://github.com/Veroq-api/veroq-mcp)
+- [Python SDK](https://github.com/veroq-ai/veroq-python)
+- [TypeScript SDK](https://github.com/veroq-ai/veroq-sdk)
+- [MCP Server](https://github.com/veroq-ai/veroq-mcp)
 - [Get API Key](https://veroq.ai)
 
 ## License
