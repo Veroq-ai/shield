@@ -17,7 +17,7 @@
 
 ---
 
-Wrap any LLM output in `shield()` and get back a trust score, corrections, and verification receipts. Works with OpenAI, Anthropic, LLaMA, Mistral, Gemini -- any model, any framework.
+**Built for developers shipping AI to production.** Wrap any LLM output in `shield()` and get back a trust score, corrections, and verification receipts. Works with OpenAI, Anthropic, LLaMA, Mistral, Gemini -- any model, any framework.
 
 ```python
 from veroq import shield
