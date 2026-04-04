@@ -11,7 +11,7 @@ from veroq.middleware import openai_shield
 client = openai_shield(openai.OpenAI())
 
 response = client.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-5.4",
     messages=[{"role": "user", "content": "What is Tesla's current market cap?"}],
 )
 

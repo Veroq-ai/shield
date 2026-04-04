@@ -70,7 +70,7 @@ from veroq import shield
 import openai
 
 response = openai.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-5.4",
     messages=[{"role": "user", "content": "What was NVIDIA's Q4 2024 revenue?"}],
 )
 
@@ -99,7 +99,7 @@ from veroq.middleware import openai_shield
 
 # Every OpenAI response is automatically verified
 client = openai_shield(openai.OpenAI())
-response = client.chat.completions.create(model="gpt-4o", messages=[...])
+response = client.chat.completions.create(model="gpt-5.4", messages=[...])
 # response now has .veroq_shield attached
 ```
 
@@ -135,7 +135,7 @@ const result = await shield("NVIDIA's Q4 revenue exceeded $22B");
 
 // With options
 const result = await shield(llmOutput, {
-  source: "gpt-4o",
+  source: "gpt-5.4",
   agentId: "my-bot",
   blockIfUntrusted: true,
 });

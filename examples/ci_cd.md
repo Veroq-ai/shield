@@ -32,7 +32,7 @@ veroq test prompts.json --threshold 0.7
 veroq shield "NVIDIA reported $22B in Q4 revenue"
 
 # Pipe from stdin
-echo "Some AI output" | veroq shield --source gpt-4o
+echo "Some AI output" | veroq shield --source gpt-5.4
 ```
 
 ## prompts.json format
