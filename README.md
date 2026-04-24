@@ -203,6 +203,12 @@ Shield is the fastest way to start with [VeroQ](https://github.com/veroq-ai) -- 
 - **[62 MCP Tools](https://github.com/veroq-ai/veroq-mcp)** -- full Model Context Protocol integration
 - **[Verification Receipts](https://veroq.ai/docs)** -- permanent, shareable proof of every verification
 
+## Built with Shield
+
+Production reference implementations that use Shield-style verification end-to-end:
+
+- **[TradingAgents-Pro](https://github.com/Veroq-ai/TradingAgents-Pro)** -- 18-agent multi-agent trading framework with per-claim fact-checking, bias detection, and forward predictions with invalidation criteria. Apache-2.0 fork of [TradingAgents](https://github.com/TauricResearch/TradingAgents).
+
 ## Links
 
 - [Documentation](https://veroq.ai/docs)
